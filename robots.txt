@@ -3,4 +3,4 @@ Disallow: /wp-admin/
 Allow: /wp-admin/admin-ajax.php
 
 
-Sitemap: https://fathersdaysmswishes.com/sitemap.xml
+Sitemap: https://fathersdayimagesdownload.com/sitemap.xml
